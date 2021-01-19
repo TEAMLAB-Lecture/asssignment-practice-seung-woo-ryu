@@ -1,7 +1,7 @@
 def addition(a, b):
     # '''
     # Input:
-   5 #   -a: 실수 값 (Integer or float)
+    #   -a: 실수 값 (Integer or float)
     #   -b: 실수 값 (Integer or float)
     # Output:
     #   -두 값의 합
@@ -14,7 +14,7 @@ def addition(a, b):
     # pass
     # ===Modify codes below=============
 
-    result = None
+    result = a + b 
 
     # ==================================
 
@@ -37,7 +37,8 @@ def minus(a, b):
     # pass
     # ===Modify codes below=============
 
-    result = None
+    result = a - b
+
 
     # ==================================
 
@@ -60,7 +61,7 @@ def multiplication(a, b):
     # pass
     # ===Modify codes below=============
 
-    result = None
+    result = a * b
 
     # ==================================
 
@@ -83,7 +84,7 @@ def division(a, b):
     # pass
     # ===Modify codes below=============
 
-    result = None
+    result = a / b
 
     # ==================================
 
